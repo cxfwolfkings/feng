@@ -17,7 +17,7 @@ const app = express();
  * 我们定义了一个 mock 方法，该方法接收一个数据对象或者一个最终返回数据对象的函数作为第一个参数，第二个参数是可选的请求参数。
  * 当第一个参数是函数的时候，开发者可以根据请求参数进行个性化的数据输出。
  * mock 方法最终返回的是一个用作响应的数据对象。
- */ 
+ */
 const mock = (data, params) => {
     if (Object.prototype.toString.call(data) === "[object Object]") {
         return data;
@@ -34,7 +34,7 @@ const mock = (data, params) => {
  * getUserInfo 对象是一个特定接口的响应数据。当请求路径匹配到 /api/getUserInfo 时，
  * 就会将 getUserInfo 对象 mock 的数据作为响应返给浏览器。这里我们这定义了一个接口，
  * 所以只 mock 了一个数据对象。在实际的开发中，你需要针对每个接口定义相应的数据 mock 数据对象。
- */ 
+ */
 const getUserInfo = {
     code: 0,
     message: "success",
