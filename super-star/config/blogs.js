@@ -1,6 +1,6 @@
 module.exports = [{
   title: 'web 开发自动化grunt',
-  description:'web 开发自动化grunt',
+  description: 'web 开发自动化grunt',
   picUrl: 'http://s.nodejs.cn/grunt/img/grunt-logo.png',
   url: 'http://www.cnblogs.com/tom-zhu/p/3802409.html',
   date: '2014-06-22',
