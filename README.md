@@ -1572,3 +1572,4 @@ taro build --type weapp
   - [Taro 交流社区——让每一次交流都被沉淀](https://taro-club.jd.com/) 如果您在此文档没有找到想要的答案，请移步社区提问，我们会在看到的第一时间给予答复。
   - [Taro 物料市场——让每一个轮子产生价值](https://taro-ext.jd.com/) 如果您想找一些现成的物料，例如：模版、组件、SDK、UI，可以移步物料市场查找，也欢迎您发布物料与其他开发者共享。
 - [更多资源](https://taro-docs.jd.com/taro/docs/composition.html)
+- [小程序多端框架全面评测](https://juejin.im/post/5c90eb366fb9a070d4199cc9?utm_source=tuicool&utm_medium=referral)
